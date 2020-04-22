@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "啟動攔截", "啟動攔截\啟動攔截.csproj", "{976E9677-99A4-4586-9BB7-968443152CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976E9677-99A4-4586-9BB7-968443152CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976E9677-99A4-4586-9BB7-968443152CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976E9677-99A4-4586-9BB7-968443152CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976E9677-99A4-4586-9BB7-968443152CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97A70A0-46C6-4008-9BE3-69DC00C7763D}
+	EndGlobalSection
+EndGlobal
